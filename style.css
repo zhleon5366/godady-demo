@@ -1,0 +1,483 @@
+/* header */
+.logo-div img {
+    width: 43px;
+    margin-left: 90px;
+    margin-top: 26px;
+}
+.logo-div p {
+    display: inline-block;
+    position: relative;
+    top: 17px;
+    margin-left: 5px;
+    font-size: 29px;
+    font-weight: 900;
+}
+.logo-div p sup {
+    font-size: 5px;
+    position: relative;
+    top: -21px;
+    left: -9px;
+}
+.logo-div span {
+    position: relative;
+    top: 40px;
+    left: -56px;
+    font-size: 11px;
+    font-weight: 500;
+}
+/* header menu */
+.menu-div ul {
+    position: relative;
+    top: 38px;
+    left: -287px;
+}
+.menu-div ul li {
+    display: inline-block;
+    padding: 0px 10px;
+}
+.menu-div ul li a{
+    text-decoration: none;
+    color: rgb(175, 181, 183);
+    font-weight: 500;
+}
+.menu-div ul li a:hover{
+    color: black;
+}
+
+
+/* HEADER TEXT 2 */
+.header-text-2 .call-number {
+    text-decoration: none;
+    color: rgb(31, 34, 35);
+    font-size: 16px;
+    margin-top: 37px;
+    display: inline-block;
+    margin-left: 323px;
+}
+.dropdown-icon{
+    font-size: 20px;
+}
+.header-text-2 ul{
+    display: inline-block;
+}
+.header-text-2 ul li{
+    display: inline-block;
+}
+.header-text-2 ul li a {
+    text-decoration: none;
+    color: black;
+    padding: 0px 23px;
+}
+/* -------------------------------------banner section------------------------------------- */
+
+.banner-div {
+    width: 1920px;
+    height: 400px;
+    background-color: #e7c64376;
+    margin-top: 18px;
+}
+.banner-div .banner-text h1 {
+    font-size: 50px;
+    font-weight: 700;
+    display: inline-block;
+    margin-top: 83px;
+    margin-left: 423px;
+}
+.banner-div .banner-text .after-h1 {
+    font-size: 25px;
+    font-weight: 700;
+    margin-left: 705px;
+}
+.search-box {
+    width: 1453px;
+    height: 50px;
+    border-radius: 0px;
+    font-size: 23px;
+    margin-left: 200px;
+    
+}
+.after-search-text {
+    font-size: 15px;
+    margin-left: 523px;
+    margin-top: 8px;
+}
+.search-submit-btn {
+    font-size: 20px;
+    font-weight: 700;
+    background-color: black;
+    padding: 10px 13px;
+    border-radius: 4px;
+    position: relative;
+    top: -3px;
+    left: -3px;
+    color: white;
+}
+
+/* -----------------------------------------------img section----------------------------------------- */
+
+
+
+
+.img-text-div .img-header {
+    font-size: 45px;
+    font-weight: 700;
+    
+    margin-top: 100px;
+    text-align: center;
+}
+.img-text-div .img-header-down {
+    font-size: 15px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 10px;
+}
+.image-section-1 {
+    width: 800px;
+    margin-top: 50px;
+    margin-left: 80px;
+    border-radius: 5px;
+}
+.image-section-2 {
+    width: 800px;
+    margin-top: 50px;
+    margin-left: 55px;
+    border-radius: 5px;
+}
+.img-footer1 {
+    font-weight: 500;
+    margin-left: 82px;
+}
+.img-footer2{
+    font-weight: 500;
+    margin-left: 57px;
+}
+.product-section1 {
+    font-weight: 700;
+    margin-left: 75px;
+    margin-top: 54px;
+}
+.product-info1 {
+    margin-left: 74px;
+    margin-top: 20px;
+}
+.product-section2{
+    font-weight: 700;
+    margin-left: 54px;
+    margin-top: 54px;
+}
+
+.product-info2{
+    margin-left: 54px;
+    margin-top: 20px;
+}
+.additonal-p{
+    margin-left: 54px;
+}
+.price-span {
+    font-size: 30px;
+    font-weight: 500;
+}
+.click-event1 {
+    text-decoration: none;
+    color: black;
+    border: 2px solid black;
+    padding: 13px 37px;
+    display: inline-block;
+    margin-top: 25px;
+    margin-left: 75px;
+    font-weight: 600;
+    
+}
+.click-event2 {
+    text-decoration: none;
+    color: black;
+    border: 2px solid black;
+    padding: 13px 37px;
+    margin-top: 25px;
+    margin-left: 54px;
+    font-weight: 600;
+    position: relative;
+    top: 41px;
+    left: 0;
+}
+.click-event1:hover{
+    padding: 14px 38px;
+    color: black;
+}
+.click-event2:hover{
+    padding: 14px 38px;
+    color: black;
+}
+/* ----------------------------------------------------------------review section--------------------------------- */
+.review-section{
+    margin-top: 190px;
+} 
+.review-header {
+    font-weight: 700;
+    font-size: 45px;
+    margin-left: 75px;
+}
+
+.card-div{
+    width: 1825px;
+    margin-left: 75px;
+}
+/* ----------------card1---------------- */
+.card1{
+    background-color: #ddd;
+    width: 25%;
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+    margin-top: 134px;
+    border-radius: 5px;
+}
+.card1-p {
+    margin: 51px 17px;
+    text-align: center;
+}
+.client-1 {
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 113px;
+}
+.go-dady{
+    margin-left: 50px;
+}
+/* ----------------card2------------------- */
+.card2 {
+    background-color: #ddd;
+    width: 25%;
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+    position: relative;
+    top: -47px;
+    left: 0;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+.card2-p{
+    margin: 51px 17px;
+    text-align: center;
+}
+.client-2{
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 113px;
+}
+/* -------------------card3--------------------- */
+.card3 {
+    background-color: #ddd;
+    width: 25%;
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+    position: relative;
+    top: 25px;
+    left: 0;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+.card3-p{
+    margin: 51px 17px;
+    text-align: center;
+}
+.client-3{
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 113px;
+}
+/* ----------------------card4-------------------- */
+.card4 {
+    background-color: #ddd;
+    width: 25%;
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+    position: relative;
+    top: -47px;
+    left: 0;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+.card4-p{
+    margin: 51px 17px;
+    text-align: center;
+}
+.client-4{
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 113px;
+}
+
+/* --------------------------------------------------SUPPORT SECTION------------------------- */
+.support-div{
+    margin-top: 100px;
+}
+.support-heading {
+    font-weight: 700;
+    font-size: 57px;
+}
+.support-text{
+    font-size: 18px;
+}
+.support-btn {
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 14px 53px;
+    margin-top: 22px;
+    display: inline-block;
+}
+.support-btn:hover{
+    color: white;
+    padding: 15px 54px;
+}
+/* -------------------------------------------------FOOTER SECTION------------------------------ */
+
+
+.upper-footer {
+    text-align: center;
+    margin-top: 124px;
+    background-color: #ddd;
+    font-size: 25px;
+    padding: 10px;
+}
+.footer-secound {
+    background-color: black;
+    margin-top: -15px;
+    box-shadow: 0px 0px 2px black;
+}
+h4 {
+    color: #ddd;
+    margin-left: 96px;
+    padding-top: 49px;
+    font-size: 31px;
+    font-weight: 700;
+}
+.footer-secound img {
+    margin-left: 96px;
+    margin-top: 15px;
+}
+.footer-secound-p {
+    color: white;
+    display: inline-block;
+    font-size: 40px;
+    font-weight: 700;
+    position: relative;
+    top: 24px;
+    left: 0;
+}
+.footer-secound-p span {
+    font-weight: 400;
+    font-size: 37px;
+}
+
+.after-hr{
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 30px;
+    margin-top: 1px;
+}
+/* ....................................footer items............................ */
+.footer-service-item{
+    background-color: black;
+    margin-top: -15px;
+    padding-bottom: 56px;
+}
+.container-fluid-class{
+    width: 1800px;
+}
+.product-title {
+    font-weight: 700;
+    color: white;
+    margin-left: 30px;
+    margin-top: 90px;
+    font-size: 18px;
+}
+.product-list{
+    margin-top: 37px;
+}
+.product-list li{
+    list-style: none;
+    margin-top: 15px;
+}
+.product-list li a{
+    color:#ddd;
+    text-decoration: none;
+    transition: .5s;
+}
+.product-list li a:hover{
+    text-decoration: underline;
+}
+
+/* ----------------------------------------------socila icon--------------------------------- */
+.color-div{
+    background-color: black;
+    padding-bottom: 20px;
+}
+.width-div{
+    width: 1800px;
+}
+
+h3 {
+    color: white;
+    display: inline-block;
+    font-size: 28px;
+    font-weight: 700;
+    position: relative;
+    top: 13px;
+    left: 11px;
+}
+.godady-ul {
+    display: inline-block;
+    margin-left: 37px;
+    position: relative;
+    top: 11px;
+    left: 0;
+}
+.godady-ul .godady-li {
+    display: inline-block;
+    margin-left: 65px;
+}
+.godady-ul .godady-li .godady-a {
+    color: white;
+    text-decoration: none;
+    font-size: 21px;
+    font-weight: 600;
+}
+
+/* ---------------------------------------------footer last------------------------- */
+.footer-color{
+    background-color: black;
+    margin-top: 1px;
+    padding-bottom: 40px;
+}
+.footer-width{
+    width: 1800px;
+}
+.col-lg-8{
+    color: white;
+    margin-top: 53px;
+}
+.col-lg-4{
+    margin-top: 71px;
+}
+.col-lg-4 ul{
+    margin-left: 50px;
+}
+.col-lg-4 ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 30px;
+}
+.col-lg-4 ul li a{
+    text-decoration: none;
+    color: rgb(114, 110, 110);
+    transition: .5s;
+}
+.col-lg-4 ul li a:hover{
+    text-decoration: underline;
+}
